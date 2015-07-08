@@ -4,6 +4,9 @@
 
 Made with my mentor at [Bloc](http://bloc.io).
 
+Heroku App: tu-bloccit
+
+Heroku link: https://tu-bloccit.herokuapp.com/ deployed to Heroku
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
