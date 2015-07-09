@@ -5,6 +5,10 @@ Rails.application.routes.draw do
 
   get 'welcome/contact'
 
-  root to: 'https://tu-bloccit.herokuapp.com/'
+  get 'welcome/index'
+
+  get 'welcome/about'
+
+  root to: 'tu-bloccit.herokuapp'
 
 end
