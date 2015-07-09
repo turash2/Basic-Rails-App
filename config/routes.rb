@@ -9,6 +9,6 @@ Rails.application.routes.draw do
 
   get 'welcome/about'
 
-  root to: 'tu-bloccit.herokuapp'
+  root to: 'Welcome#contact'
 
 end
